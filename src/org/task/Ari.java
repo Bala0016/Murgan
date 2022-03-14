@@ -14,7 +14,9 @@ public class Ari {public static void main(String[] args) {
 	for (int i = 0; i < li.size();i=i+2) {
 		
 		System.out.println(li.get(i));
+		System.out.println(li.get(i));
 
+		
 }
 }
 }
