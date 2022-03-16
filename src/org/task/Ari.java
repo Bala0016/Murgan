@@ -15,6 +15,8 @@ public class Ari {public static void main(String[] args) {
 		
 		System.out.println(li.get(1));
 		System.out.println(li.get(i));
+		System.out.println("conflict");
+		System.out.println("conflict resoled");
 		System.out.println(li.get(i));
 		System.out.println(li.get(i));
 		
