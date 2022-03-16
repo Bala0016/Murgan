@@ -10,7 +10,7 @@ public class Ari {public static void main(String[] args) {
 	li.add(4);
 	li.add(3);
 	li.add(5);
-
+System.out.println("gjsgjgwjgdiqdgqwygdyqwgdygqwjygyjqwgdjgqwyjgdjyqwgwygqwygydgqwqgh");
 	for (int i = 0; i < li.size();i=i+2) {
 		
 		System.out.println(li.get(1));
