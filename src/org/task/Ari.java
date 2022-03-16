@@ -20,6 +20,7 @@ public class Ari {public static void main(String[] args) {
 		System.out.println(li.get(i));
 		System.out.println(li.get(i));
 		System.out.println("alagu");
+		System.out.println("rajesh");
 }
 }
 }
